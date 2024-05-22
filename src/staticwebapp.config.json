@@ -21,9 +21,6 @@
           "openIdIssuer": "https://login.microsoftonline.com/12dcf0d8-fc71-4abe-a06c-2d2bc1c6d3f0/v2.0",
           "clientIdSettingName": "AZURE_CLIENT_ID",
           "clientSecretSettingName": "AZURE_CLIENT_SECRET"
-        },
-        "login": {
-          "loginParameters": []
         }
       }
     }
