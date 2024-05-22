@@ -2,10 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "allowedRoles": ["Authenticated"],
-      "headers": {
-        "Cache-Control": "no-store"
-      }
+      "allowedRoles": ["Authenticated"]
     }
   ],
   "responseOverrides": {
